@@ -6,12 +6,14 @@ hasil gabut gatau mau bikin apa :V<br>
 $ pkg update && pkg update<br>
 $ pkg install git -y<br>
 $ pkg install python -y<br>
+$ pkg install pyfiglet<br>
 $ git clone https://www.github.com/HansB33X/base64e-d<br>
 $ python mainbase.py<br>
 <h3>Ubuntu</h3>
 $ sudo apt update && sudo apt update<br>
 $ sudo apt install git -y<br>
 $ sudo apt install python3 -y<br>
+$ pip install pyfiglet<br>
 $ git clone https://www.github.com/HansB33X/base64e-d<br>
 $ python3 mainbase.py<br>
 
