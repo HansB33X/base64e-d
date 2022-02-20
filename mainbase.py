@@ -2,10 +2,9 @@ import base64
 import os
 import pyfiglet
 
-os.system('pip install pyfiglet')
-os.system('clear')
-
 def main():
+        os.system('pip install pyfiglet')
+        os.system('clear')
 	logo = pyfiglet.figlet_format("BASE64")
 	print(logo)
 	print("decode / encode by HansB33X\n")
